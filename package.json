@@ -17,7 +17,7 @@
     "@react-navigation/drawer": "^5.7.5",
     "@react-navigation/native": "^5.2.0",
     "@react-navigation/stack": "^5.2.16",
-    "lodash": "^4.17.15",
+    "lodash": "^4.17.21",
     "pouchdb-react-native": "^6.4.1",
     "react": "16.11.0",
     "react-native": "0.62.2",
